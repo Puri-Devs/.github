@@ -1,3 +1,3 @@
 ## Puri is a network of servers with various applications
 
-Visit the puri.zone website
+Visit the <a href="puri.zone">puri</a> website
