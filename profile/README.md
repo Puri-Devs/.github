@@ -4,7 +4,8 @@
 
 
 
-![Logo](https://raw.githubusercontent.com/Puri-Devs/Files/main/Puri(official%20logo)2.png)
+![Logo](https://raw.githubusercontent.com/Puri-Devs/Files/main/Puri(official%20logo)2.png#gh-light-mode-only)
+![Logo](https://raw.githubusercontent.com/Puri-Devs/Files/main/Puri(official%20logo)3.png#gh-dark-mode-only)
 
 
 ## Authors
