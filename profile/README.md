@@ -10,7 +10,7 @@
 
 ## Authors
 
-- [@NoNameUwU](https://github.com/orgs/Puri-Devs/people)
+- [@DemwE](https://github.com/orgs/Puri-Devs/people)
 - [@kali4](https://github.com/orgs/Puri-Devs/people)
 - [@kbaraniak](https://github.com/orgs/Puri-Devs/people)
 
