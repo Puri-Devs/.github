@@ -1,6 +1,10 @@
 
 # Puri servers network
 
+### [Latest Projects] 
+[📝 MVList - Minecraft Verified Servers List](https://mvlist.puri.zone)
+
+[🖼️ PLightning | Bootstrap Alternative](https://github.com/Puri-Devs/PLightning)
 
 
 
@@ -16,5 +20,5 @@
 
 ## Support
 
-For support, email puri.devs1@gmail.com or join our discord server.
+For support, email support@puri.zone or join our discord server.
 
