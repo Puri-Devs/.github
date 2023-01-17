@@ -1,6 +1,9 @@
 
 # Puri servers network
 
+### [Official Channel]
+[📺 Puri Devs](https://www.youtube.com/@puridevs)
+
 ### [Latest Projects] 
 [📝 MVList - Minecraft Verified Servers List](https://mvlist.puri.zone)
 
